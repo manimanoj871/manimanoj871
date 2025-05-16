@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,There It's Me Manikandan M</h1>
-<h3 align="center">A passionate JavaFull Stack developer from India</h3>
+<h3 align="center">A passionate Java FullStack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
