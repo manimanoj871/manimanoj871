@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JavaFull Stack**
+- 🌱 I’m currently learning **Java FullStack Development**
 
-- 👯 I’m looking to collaborate on **JavaFull Stack**
+- 👯 I’m looking to collaborate on **Java FullStack**
 
 - 📫 How to reach me **manimanoj10476@gmail.com**
 
